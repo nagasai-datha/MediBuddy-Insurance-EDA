@@ -81,7 +81,13 @@ The analysis highlights that lifestyle and health-related factors play a major r
 1. Clone the repository  
 2. Open MediBuddy_EDA.ipynb  
 3. Install required libraries  
-4. Run all cells  
+4. Run all cells
+
+---
+## Project Explanation Video
+
+Google Drive Link:
+https://drive.google.com/file/d/1hpiLcUFq_C7HHQpoz5UKn_yqTjOcV-yZ/view
 
 ---
 
